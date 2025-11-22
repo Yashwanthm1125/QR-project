@@ -1,2 +1,15 @@
-# QR-project
-This repository contains a lightweight QR Code Generator built using HTML, CSS, and JavaScript. The project demonstrates how to transform any URL into a scannable QR code directly in the browser, making it a practical example of combining front‑end technologies with JavaScript libraries for real‑world utility.
+# 🔗 QR Code Generator
+
+A lightweight **QR Code Generator** built with **HTML, CSS, and JavaScript**.  
+This project allows users to instantly convert any URL or text into a scannable QR code directly in the browser.
+
+---
+
+## 🚀 Features
+- 🔗 **URL to QR Conversion** – Enter any valid URL and generate a QR code instantly.  
+- 📱 **Scannable Output** – Works with mobile devices and QR scanners.  
+- 🎨 **Responsive Design** – Clean and adaptive layout styled with CSS.  
+- ⚡ **Interactive UI** – Simple input field and button for quick generation.  
+- 🛠️ **Reusable Codebase** – Modular JavaScript functions for easy integration into other projects.  
+
+---
